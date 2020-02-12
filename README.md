@@ -29,4 +29,4 @@ Once you are in the 'asset' directory of the project, run the following commands
   
 # View a demonstration here: 
 
-![LIRI Demo](assets/LiriDemonstration.gif)
+![LIRI Demo](assets/Liri-node-app.gif)
